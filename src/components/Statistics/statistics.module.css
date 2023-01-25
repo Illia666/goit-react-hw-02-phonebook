@@ -1,0 +1,14 @@
+
+.list {
+    list-style: none;
+  }
+  
+  .item {
+    font-size: 17px;
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+  
+  .value {
+    color: darkblue;
+  }
